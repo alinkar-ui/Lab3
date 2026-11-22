@@ -4,5 +4,5 @@
 
 
 
-!\[This is a computer] (alk.jpeg)
+!\[This is a computer](alk.jpeg)
 
