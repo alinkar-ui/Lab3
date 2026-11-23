@@ -4,4 +4,3 @@
 
 ## EEE School
 
-![This is me!](alk.jpeg)
